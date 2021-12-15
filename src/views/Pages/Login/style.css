@@ -1,0 +1,10 @@
+.backgroundLogin {
+    background-color: darkslategray;
+}
+
+.titleLogin {
+    text-align: center;
+    font-weight: bold;
+    font-size: 26px;
+    color: black;
+}

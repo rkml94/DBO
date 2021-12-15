@@ -1,0 +1,26 @@
+[
+	{
+       "supplierId":"1",
+       "supplierName":"eiger shop",
+       "alamat":"jakarta",
+       "no.hp":"087654321"
+    },
+	{
+       "supplierId":"2",
+       "supplierName":"specs shop",
+       "alamat":"jakarta",
+       "no.hp":"087654321"
+    },
+	{
+       "supplierId":"3",
+       "supplierName":"adidas shop",
+       "alamat":"jakarta",
+       "no.hp":"087654321"
+    },
+	{
+       "supplierId":"4",
+       "supplierName":"nike shop",
+       "alamat":"jakarta",
+       "no.hp":"087654321"
+    }
+]

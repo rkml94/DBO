@@ -1,0 +1,32 @@
+[
+	{
+        "orderId":"1",
+        "orderName": "Tas Eiger v1",
+        "jumlahOrder": "2",
+        "harga": "100.000",
+        "totalHarga": "200.000",
+        "note": "Barang no reject",
+        "customerName": "raihankamil",
+        "supplierName": "Eiger Shop"
+    },
+    {
+        "orderId":"2",
+        "orderName": "Tas Eiger v1",
+        "jumlahOrder": "2",
+        "harga": "100.000",
+        "totalHarga": "200.000",
+        "note": "Barang no reject",
+        "customerName": "raihankamil",
+        "supplierName": "Eiger Shop"
+    },
+    {
+        "orderId":"3",
+        "orderName": "Tas Eiger v1",
+        "jumlahOrder": "2",
+        "harga": "100.000",
+        "totalHarga": "200.000",
+        "note": "Barang no reject",
+        "customerName": "raihankamil",
+        "supplierName": "Eiger Shop"
+    }
+]
